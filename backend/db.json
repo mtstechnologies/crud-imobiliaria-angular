@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "notebook lenovo 3i",
+      "price": "3750.00"
+    },
+    {
+      "id": 2,
+      "name": "notebook lenovo 3i",
+      "price": "3750.00"
+    },
+    {
+      "id": 3,
+      "name": "notebook lenovo 3i",
+      "price": "3750.00"
+    },
+    {
+      "id": 4,
+      "name": "notebook lenovo 3i",
+      "price": "3750.00"
+    }
+    
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Michael Trindade",
+      "email": "michael@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Michael Trindade",
+      "email": "michael@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "name": "Michael Trindade",
+      "email": "michael@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
